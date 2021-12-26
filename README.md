@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mrisman/File-Sharing-Man)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/poocong/FileSharing)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -89,9 +89,9 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
+Bergabunglah di [Channel Telegram ](https://www.telegram.dog/Poocongonlen) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Poocongonlen) untu info Update bot.   
    
-Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
+
 
 ### Credits
 
