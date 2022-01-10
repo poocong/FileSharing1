@@ -113,7 +113,7 @@ async def start_command(client: Client, message: Message):
         buttons = [
             [InlineKeyboardButton("Ingfo Saya", callback_data="about")],
             [
-                InlineKeyboardButton("Channel", url=client.invitelink),
+                InlineKeyboardButton("Channel", url=client.invitelink2),
             ],
             [
                 InlineKeyboardButton("Tutup", callback_data="close"),
